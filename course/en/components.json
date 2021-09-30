@@ -15,13 +15,13 @@
     "_id": "6151e7e2566df725a4b24f5a",
     "_parentId": "6151e0d0566df725a4b24f56",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "",
+    "instruction": "نشاهد الفيديو",
     "_media": {
       "mp4": "course/en/assets/0ff7b5e2def749f06c580dfc8ac67ff59d27f67c.mp4",
       "ogv": "",
@@ -70,7 +70,7 @@
     "_id": "6151eee4566df725a4b24f69",
     "_parentId": "6151e0d0566df725a4b24f56",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -118,7 +118,7 @@
     "_id": "6151f6e7566df725a4b24f81",
     "_parentId": "6151f6e7566df725a4b24f80",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -225,13 +225,13 @@
     "_id": "6156017a5b65fc34acdbb8ad",
     "_parentId": "6151f6e7566df725a4b24f80",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "",
+    "instruction": "نشاهد الفيديو",
     "_media": {
       "mp4": "course/en/assets/62e19662e0ddbac9d8739c7fd0452bd9cae18505.mp4",
       "ogv": "",
@@ -280,13 +280,13 @@
     "_id": "615603c85b65fc34acdbb8bb",
     "_parentId": "615603c25b65fc34acdbb8ba",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "",
+    "instruction": "نشاهد الفيديو",
     "_media": {
       "mp4": "course/en/assets/8fa15bc4d49bd852ea6fdffa62b7a0e2060e658e.mp4",
       "ogv": "",
@@ -335,7 +335,7 @@
     "_id": "615603f25b65fc34acdbb8be",
     "_parentId": "615603c25b65fc34acdbb8ba",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -345,7 +345,7 @@
     "_items": [
       {
         "_answers": [
-          "استقبل ابي صديقه القادم من أبو ظبي"
+          "استقبل أبي صديقه القادم من إمارة أبو ظبي"
         ],
         "prefix": "",
         "suffix": "",
