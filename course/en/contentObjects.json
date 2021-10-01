@@ -102,22 +102,22 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/dbe68199044a0961abe70902b105f5cbbd2b9545.png"
+      "src": "course/en/assets/bf931ec7591aceeeb65cb8150f53cc77d5f5befb.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
     },
     "_boxMenu": {
       "_renderAsGroup": false
