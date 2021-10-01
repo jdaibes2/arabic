@@ -8,8 +8,8 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "_disableAnimationFor": [],
-  "_id": "6151e0d0566df725a4b24f53",
-  "_courseId": "6151e0d0566df725a4b24f52",
+  "_id": "6156cfc288cf1941fc917847",
+  "_courseId": "6156cfc288cf1941fc917846",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
@@ -17,10 +17,42 @@
   },
   "_accessibility": {
     "_isEnabled": false,
-    "_shouldSupportLegacyBrowsers": true,
-    "_isTextProcessorEnabled": false
+    "_isSkipNavigationEnabled": true,
+    "_ariaLevels": {
+      "_menu": 1,
+      "_menuGroup": 2,
+      "_menuItem": 2,
+      "_page": 1,
+      "_article": 2,
+      "_block": 3,
+      "_component": 4,
+      "_componentItem": 5,
+      "_notify": 1
+    }
   },
   "__v": 0,
+  "_completionCriteria": {
+    "_requireContentCompleted": true,
+    "_requireAssessmentCompleted": false
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true,
+    "_warnFirstOnly": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": true,
+    "_limitToSelector": ""
+  },
+  "screenSize": {
+    "small": 520,
+    "medium": 760,
+    "large": 900
+  },
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
@@ -47,8 +79,5 @@
       "_exitStateIfIncomplete": "auto",
       "_exitStateIfComplete": "auto"
     }
-  },
-  "_trickle": {
-    "_completionAttribute": "_isComplete"
   }
 }

@@ -1,7 +1,35 @@
 [
   {
+    "_component": "text",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">همزة الوصل وهمزة القطع</span></strong></span></p><p dir=\"RTL\"><strong><span style=\"color:#FF8C00\">الأهداف</span></strong></p><p dir=\"RTL\"><strong>في نهاية هذا الدرس سوف أصبح قادراً على:</strong></p><p dir=\"RTL\">-تعريف همزة الوصل</p><p dir=\"RTL\">-تعريف همزة القطع</p><p dir=\"RTL\">-كتابة الهمزة في كلتي الحالتين</p>",
+    "_id": "6156d01488cf1941fc91784b",
+    "_parentId": "6156d01488cf1941fc91784a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
     "_component": "media",
-    "_classes": "",
+    "_classes": "grand",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -12,18 +40,22 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6151e7e2566df725a4b24f5a",
-    "_parentId": "6151e0d0566df725a4b24f56",
+    "_id": "6156d23e88cf1941fc917851",
+    "_parentId": "6156d01488cf1941fc91784a",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "نشاهد الفيديو",
     "_media": {
-      "mp4": "course/en/assets/0ff7b5e2def749f06c580dfc8ac67ff59d27f67c.mp4",
+      "mp4": "course/en/assets/bd446f85b7bc8d957bd5ece9f8412025c6a93dd3.mp4",
       "ogv": "",
       "webm": "",
       "mp3": "",
@@ -35,8 +67,8 @@
     "_setCompletionOn": "play",
     "_useClosedCaptions": false,
     "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "100%",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
     "_allowFullScreen": true,
     "_aspectRatio": "landscape",
     "_pauseWhenOffScreen": true,
@@ -56,7 +88,7 @@
   },
   {
     "_component": "text",
-    "_classes": "grand2",
+    "_classes": " grand",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -66,20 +98,24 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p dir=\"RTL\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">همزة الوصل وهمزة القطع</span></strong></span></p><p dir=\"RTL\"><strong><span style=\"color:#FF8C00\">الأهداف</span></strong></p><p dir=\"RTL\"><strong>في نهاية هذا الدرس سوف أصبح قادراً على:</strong></p><p dir=\"RTL\">-تعريف همزة الوصل</p><p dir=\"RTL\">-تعريف همزة القطع</p><p dir=\"RTL\">-كتابة الهمزة في كلتي الحالتين</p>",
-    "_id": "6151eee4566df725a4b24f69",
-    "_parentId": "6151e0d0566df725a4b24f56",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFF0F5\"><span style=\"background-color:#FF8C00\">مقدمة</span></span></strong></p><p dir=\"rtl\"><strong>الهمزة تأتي في ثلاثة مواضع من الكلمة: في أول الكلمة، أو في وسطها، أو في آخرها، والهمزة التي تأتي في أول الكلمة إما أن تكون همزة وصل وإما همزة قطع، ولكلٍّ منهما قواعدها المحددة لكتابتها وتمييزها</strong></p>",
+    "_id": "6156d36188cf1941fc917855",
+    "_parentId": "6156d35c88cf1941fc917854",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
-    "_component": "text",
+    "_component": "media",
     "_classes": "grand",
     "_isOptional": false,
     "_isAvailable": true,
@@ -90,17 +126,111 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p dir=\"RTL\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">مقدمة:</span></strong></span></p><p dir=\"RTL\">تأتي الهمزة في ثلاثة مواضع من الكلمة: في أول الكلمة، أو في وسطها، أو في آخرها، والهمزة التي تأتي في أول الكلمة إما أن تكون همزة وصل وإما همزة قطع، ولكلٍّ منهما قواعدها المحددة لكتابتها وتمييزها.</p><p dir=\"RTL\">&nbsp;تأتي همزتا القطع والوصل في بداية الكلمة، وتعتبر كتابة همزتي الوصل والقطع من إحدى القواعد الإملائية الضرورية في اللغة العربية، وإن التمييز بين هاتين الهمزتين أمر لا بدّ منه، فما زال الكثير من الناس يجهلون طريقة قراءتها وكتابتها، ومواضع استخدامها، وانتشرت الأخطاء الإملائية في كتابتها.</p>",
-    "_id": "6151f04a566df725a4b24f6d",
-    "_parentId": "6151f03b566df725a4b24f6c",
+    "body": "",
+    "_id": "6156d43888cf1941fc917857",
+    "_parentId": "6156d43188cf1941fc917856",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": ""
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "نشاهد الفيديو",
+    "_media": {
+      "mp4": "course/en/assets/166e79addc56b5c903bb8bc52997046690d14301.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/3fc67205bb0dabf3267512705ac975ac0a4536cd.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6156dd2288cf1941fc91785d",
+    "_parentId": "6156dd2288cf1941fc91785c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "نشاهد الفيديو",
+    "_media": {
+      "mp4": "course/en/assets/166e79addc56b5c903bb8bc52997046690d14301.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/3fc67205bb0dabf3267512705ac975ac0a4536cd.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   },
   {
     "_component": "mcq",
@@ -112,37 +242,27 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "New Component Title",
+    "title": "سؤال - 1 ",
     "displayTitle": "",
-    "body": "<p dir=\"rtl\">حدد من الخيارات الآتية الكلمات التي لا تنطق فيها الهمزة عند إضافة حرف الواو أو حرف الفاء قبلها</p>",
-    "_id": "6151f6e7566df725a4b24f81",
-    "_parentId": "6151f6e7566df725a4b24f80",
+    "body": "<p dir=\"RTL\"><strong>من الخيارات الآتية، حدّد الكلمات التي لا تنطق فيها الهمزة عند إضافة حرف الواو أو حرف الفاء قبلها</strong></p>",
+    "_id": "6156dd2288cf1941fc917860",
+    "_parentId": "6156dd2288cf1941fc91785c",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_items": [
       {
-        "text": "استعمال",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "أبي",
+        "text": "ابي",
         "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "استنتج",
-        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -155,8 +275,22 @@
         "_score": 0
       },
       {
-        "text": "اعتمد",
+        "text": "استخدام",
         "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "اقتراب",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "اعراب",
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -173,11 +307,11 @@
     "_questionWeight": 1,
     "_selectable": 5,
     "_feedback": {
-      "title": "",
-      "correct": "",
+      "title": "النتيجة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p>",
       "_incorrect": {
-        "final": "",
-        "notFinal": ""
+        "final": "<p dir=\"rtl\">خاطئة&nbsp;!</p>",
+        "notFinal": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">حاول مرة جديدة</p>"
       },
       "_partlyCorrect": {
         "final": "",
@@ -210,118 +344,8 @@
     }
   },
   {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "6156017a5b65fc34acdbb8ad",
-    "_parentId": "6151f6e7566df725a4b24f80",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": "نشاهد الفيديو",
-    "_media": {
-      "mp4": "course/en/assets/62e19662e0ddbac9d8739c7fd0452bd9cae18505.mp4",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "",
-      "type": "",
-      "poster": "course/en/assets/3fc67205bb0dabf3267512705ac975ac0a4536cd.png",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "80%",
-    "_allowFullScreen": false,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "615603c85b65fc34acdbb8bb",
-    "_parentId": "615603c25b65fc34acdbb8ba",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": "نشاهد الفيديو",
-    "_media": {
-      "mp4": "course/en/assets/8fa15bc4d49bd852ea6fdffa62b7a0e2060e658e.mp4",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "",
-      "type": "",
-      "poster": "course/en/assets/0320338a7385621331a9b492f70bf35f86b933d9.png",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "80%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": true,
-    "_playsinline": true,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
     "_component": "textinput",
-    "_classes": "",
+    "_classes": "grand",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -331,17 +355,21 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "",
-    "_id": "615603f25b65fc34acdbb8be",
-    "_parentId": "615603c25b65fc34acdbb8ba",
+    "body": "<p dir=\"RTL\"><strong>أدخل الإجابة مع الإنتباه الى كتابة فراغ واحد بين الكلمات وعدم كتابة الحركات والفواصل<span>!</span></strong></p>",
+    "_id": "6156dd3288cf1941fc917861",
+    "_parentId": "6156d43188cf1941fc917856",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": "أدخل الإجابة مع الإنتباه الى كتابة فراغ واحد بين الكلمات وعدم كتابة الحركات والفواصل",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
     "_items": [
       {
         "_answers": [
@@ -360,14 +388,14 @@
     "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_allowsAnyCase": false,
-    "_allowsPunctuation": false,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
     "_feedback": {
-      "title": "",
-      "correct": "",
+      "title": "النتيجة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p><p dir=\"rtl\">&nbsp;</p>",
       "_incorrect": {
-        "final": "",
-        "notFinal": ""
+        "final": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">&nbsp;</p>",
+        "notFinal": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">حاول مرة جديدة</p>"
       },
       "_partlyCorrect": {
         "final": "",
@@ -397,6 +425,28 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "6156dfdb88cf1941fc917868",
+    "_parentId": "6156df8f88cf1941fc917864",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     }
   }
 ]
