@@ -19,11 +19,6 @@
     "description": "question3-thumbnail.png",
     "tags": []
   },
-  "166e79addc56b5c903bb8bc52997046690d14301.mp4": {
-    "title": "activity1.mp4",
-    "description": "activity1.mp4",
-    "tags": []
-  },
   "bd446f85b7bc8d957bd5ece9f8412025c6a93dd3.mp4": {
     "title": "lesson-objectives.mp4",
     "description": "lesson-objectives.mp4",
@@ -37,6 +32,11 @@
   "bf931ec7591aceeeb65cb8150f53cc77d5f5befb.png": {
     "title": "eval-cover.png",
     "description": "eval-cover.png",
+    "tags": []
+  },
+  "f211899e119a5fd91fe18834311014880aeba332.mp4": {
+    "title": "activity1.mp4",
+    "description": "activity1.mp4",
     "tags": []
   }
 }

@@ -201,7 +201,7 @@
     },
     "instruction": "نشاهد الفيديو",
     "_media": {
-      "mp4": "course/en/assets/166e79addc56b5c903bb8bc52997046690d14301.mp4",
+      "mp4": "course/en/assets/f211899e119a5fd91fe18834311014880aeba332.mp4",
       "ogv": "",
       "webm": "",
       "mp3": "",
@@ -448,5 +448,38 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     }
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61575a94c7d8cb2e50098a11",
+    "_parentId": "61575a0cc7d8cb2e50098a0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://docs.google.com/presentation/d/e/2PACX-1vQoBN8xrnkweszgVJTiYn6V0nUoa9NLdfpUj1TLsDbPKk80E-SKvpuG9RxxzH0K6k4t0z8SHbjvsSI7/embed?start=false&loop=false&delayms=3000",
+    "_initialWidth": 640,
+    "_initialHeight": 480,
+    "_dimensionDelegateSelector": ""
   }
 ]
