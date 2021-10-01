@@ -15,7 +15,7 @@
     "_id": "6156d01488cf1941fc91784b",
     "_parentId": "6156d01488cf1941fc91784a",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -43,7 +43,7 @@
     "_id": "6156d23e88cf1941fc917851",
     "_parentId": "6156d01488cf1941fc91784a",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -130,7 +130,7 @@
     "_id": "6156d43888cf1941fc917857",
     "_parentId": "6156d43188cf1941fc917856",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -189,7 +189,7 @@
     "_id": "6156dd2288cf1941fc91785d",
     "_parentId": "6156dd2288cf1941fc91785c",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -248,7 +248,7 @@
     "_id": "6156dd2288cf1941fc917860",
     "_parentId": "6156dd2288cf1941fc91785c",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -359,7 +359,7 @@
     "_id": "6156dd3288cf1941fc917861",
     "_parentId": "6156d43188cf1941fc917856",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
