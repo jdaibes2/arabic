@@ -477,9 +477,9 @@
     },
     "_setCompletionOn": "inview",
     "instruction": "",
-    "_src": "https://docs.google.com/presentation/d/e/2PACX-1vQoBN8xrnkweszgVJTiYn6V0nUoa9NLdfpUj1TLsDbPKk80E-SKvpuG9RxxzH0K6k4t0z8SHbjvsSI7/embed?start=false&loop=false&delayms=3000",
-    "_initialWidth": 640,
-    "_initialHeight": 480,
+    "_src": "assets/index.html",
+    "_initialWidth": 1280,
+    "_initialHeight": 720,
     "_dimensionDelegateSelector": ""
   }
 ]
