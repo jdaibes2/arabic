@@ -127,65 +127,6 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6156d43888cf1941fc917857",
-    "_parentId": "6156d43188cf1941fc917856",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "شاهد الفيديو",
-    "_media": {
-      "mp4": "course/en/assets/68c46005cda766a105d4b8e003f53eb17afb20fd.mp4",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "",
-      "type": "",
-      "poster": "course/en/assets/0320338a7385621331a9b492f70bf35f86b933d9.png",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "80%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": true,
-    "_playsinline": true,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "grand",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
     "_id": "6156dd2288cf1941fc91785d",
     "_parentId": "6156dd2288cf1941fc91785c",
     "_type": "component",
@@ -344,6 +285,298 @@
     }
   },
   {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "6156dfdb88cf1941fc917868",
+    "_parentId": "6156df8f88cf1941fc917864",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61575a94c7d8cb2e50098a11",
+    "_parentId": "61575a0cc7d8cb2e50098a0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://docs.google.com/presentation/d/e/2PACX-1vQoBN8xrnkweszgVJTiYn6V0nUoa9NLdfpUj1TLsDbPKk80E-SKvpuG9RxxzH0K6k4t0z8SHbjvsSI7/embed?start=false&loop=false&delayms=3000",
+    "_initialWidth": 917,
+    "_initialHeight": 555,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "615a118614b795188022e8e5",
+    "_parentId": "615a118514b795188022e8e4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "شاهد الفيديو",
+    "_media": {
+      "mp4": "course/en/assets/88d59d9c3b091ea3b24cce33a2e5bf4222c30ed2.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/a6f0c2ce6ee822b4dabb08aa5466609ca806894c.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "افتح النص",
+      "inlineTranscriptCloseButton": "أغلق النص",
+      "inlineTranscriptBody": "<p dir=\"RTL\">أرجو أن تكونوا قد إستفدتم بنهاية هذا الدرس، وأصبحتم قادرين على التمييز بين همزتي الوصل والقطع وكتابتهما بالشكل الصحيح</p><p dir=\"RTL\">شكرا لكم على المتابعة وشكراً لك أستاذ سامي... هل تريد إضافة أي شيء؟</p><p dir=\"RTL\">نعم طبعاً وشكرا لك سيدة ليلى</p><p dir=\"RTL\">أعود وأذكركم أعزائي انه للتمييز بين الهمزتين أضيفوا حرف الواو أو حرف الفاء قبل الكلمة، واقرأهوا فإذا لفظت الهمزة كانت همزة قطع وإذا لم تلفظ كانت همزة وصل</p><p dir=\"RTL\">إنتبهوا دائماً عند كتابة أي نص أو تقرير أو رسائل إلكترونية لكتابة الهمزة بالطريقة الصحيحة وإلى اللقاء...</p><p dir=\"RTL\">إلى اللقاء</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "سؤال - 2 ",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><strong>حدّد العبارة&nbsp;الصحيحة لناحية كتابة همزتي الوصل والقطع:</strong></p>",
+    "_id": "615a13ac14b795188022e8f4",
+    "_parentId": "615a13ac14b795188022e8f0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "إن افتتاح المركز وإعلان ذلك كان أساسياً",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "إن إفتتاح المركز وإعلان ذلك كان أساسياً",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "إن افتتاح المركز واعلان ذلك كان أساسياً",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "النتيجة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p>",
+      "_incorrect": {
+        "final": "<p dir=\"rtl\">خاطئة&nbsp;!</p>",
+        "notFinal": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">حاول مرة جديدة</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "615a13f614b795188022e8f5",
+    "_parentId": "615a13ac14b795188022e8f0",
+    "_type": "component",
+    "_layout": "left",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "615a16cd14b795188022e8f8",
+    "_parentId": "615a16cd14b795188022e8f7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "شاهد الفيديو",
+    "_media": {
+      "mp4": "course/en/assets/68c46005cda766a105d4b8e003f53eb17afb20fd.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/0320338a7385621331a9b492f70bf35f86b933d9.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
     "_component": "textinput",
     "_classes": "grand",
     "_isOptional": false,
@@ -356,8 +589,8 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "<p dir=\"RTL\"><strong>أدخل الإجابة مع الإنتباه الى كتابة فراغ واحد بين الكلمات وعدم كتابة الحركات والفواصل<span>!</span></strong></p>",
-    "_id": "6156dd3288cf1941fc917861",
-    "_parentId": "6156d43188cf1941fc917856",
+    "_id": "615a16cd14b795188022e8fb",
+    "_parentId": "615a16cd14b795188022e8f7",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -428,6 +661,103 @@
     }
   },
   {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "سؤال - 3 ",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><strong>حدّد العبارة&nbsp;الصحيحة لناحية كتابة همزتي الوصل والقطع:</strong></p>",
+    "_id": "615a16f614b795188022e8fe",
+    "_parentId": "615a16f514b795188022e8fd",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "لم استقبل أحداً منذ إسبوعين في استارحتي الخاصة",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "لم استقبل أحداً منذ إسبوعين في إستارحتي الخاصة",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "لم أستقبل أحداً منذ إسبوعين في استارحتي الخاصة",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "النتيجة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p>",
+      "_incorrect": {
+        "final": "<p dir=\"rtl\">خاطئة&nbsp;!</p>",
+        "notFinal": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">حاول مرة جديدة</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
     "_component": "blank",
     "_classes": "",
     "_isOptional": false,
@@ -440,46 +770,13 @@
     "title": "New Component Title",
     "displayTitle": "New Component Title",
     "body": "",
-    "_id": "6156dfdb88cf1941fc917868",
-    "_parentId": "6156df8f88cf1941fc917864",
+    "_id": "615a16f614b795188022e8ff",
+    "_parentId": "615a16f514b795188022e8fd",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "left",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     }
-  },
-  {
-    "_component": "iframe",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "61575a94c7d8cb2e50098a11",
-    "_parentId": "61575a0cc7d8cb2e50098a0f",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_setCompletionOn": "inview",
-    "instruction": "",
-    "_src": "https://docs.google.com/presentation/d/e/2PACX-1vQoBN8xrnkweszgVJTiYn6V0nUoa9NLdfpUj1TLsDbPKk80E-SKvpuG9RxxzH0K6k4t0z8SHbjvsSI7/embed?start=false&loop=false&delayms=3000",
-    "_initialWidth": 917,
-    "_initialHeight": 555,
-    "_dimensionDelegateSelector": ""
   }
 ]
