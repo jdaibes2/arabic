@@ -53,7 +53,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "نشاهد الفيديو",
+    "instruction": "شاهد الفيديو",
     "_media": {
       "mp4": "course/en/assets/bd446f85b7bc8d957bd5ece9f8412025c6a93dd3.mp4",
       "ogv": "",
@@ -78,8 +78,8 @@
       "_setCompletionOnView": true,
       "_inlineTranscript": true,
       "_externalTranscript": false,
-      "inlineTranscriptButton": "فتح النص المقروء",
-      "inlineTranscriptCloseButton": "إغلاق",
+      "inlineTranscriptButton": "افتح النص",
+      "inlineTranscriptCloseButton": "أغلق النص",
       "inlineTranscriptBody": "<p dir=\"RTL\">ليلى: مرحباً أعزائي وأهلاً وسهلاً بكم</p><p dir=\"RTL\">مرحباً سيد سامي كيف حالك؟</p><p dir=\"RTL\">أخبرنا لو سمحت ما هو درسنا اليوم وما هي أهدافه؟</p><p dir=\"RTL\">سامي:</p><p dir=\"RTL\">مرحباً سيدة ليلى، شكراً لك</p><p dir=\"RTL\">أهلاً وسهلاً أعزائي في درس اليوم : همزة الوصل وهمزة القطع</p><p dir=\"RTL\">ما يزال موضوع الهمزة من أكثر الموضوعات المطروحة في الإملاء والخاضعة للدراسة من حيث كتابتها ولفظها، وأنواعها.</p><p dir=\"RTL\">سوف نتعرف في هذا الدرس على الامور الآتية:</p><p dir=\"RTL\">...</p>",
       "transcriptLinkButton": "",
       "transcriptLink": ""
@@ -140,7 +140,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "نشاهد الفيديو",
+    "instruction": "شاهد الفيديو",
     "_media": {
       "mp4": "course/en/assets/68c46005cda766a105d4b8e003f53eb17afb20fd.mp4",
       "ogv": "",
@@ -199,7 +199,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "نشاهد الفيديو",
+    "instruction": "شاهد الفيديو",
     "_media": {
       "mp4": "course/en/assets/f211899e119a5fd91fe18834311014880aeba332.mp4",
       "ogv": "",
@@ -224,8 +224,8 @@
       "_setCompletionOnView": true,
       "_inlineTranscript": true,
       "_externalTranscript": false,
-      "inlineTranscriptButton": "فتح النص المقروء",
-      "inlineTranscriptCloseButton": "إغلاق",
+      "inlineTranscriptButton": "افتح النص",
+      "inlineTranscriptCloseButton": "أغلق النص",
       "inlineTranscriptBody": "<p dir=\"rtl\">دعونا بدايةً أن ننفذ هذا النشاط<br />سوف نأخذ بعض الكلمات ونضيف لها احد الحرفين (و، أو فـ) في بدايتها<br />ثم نقرأها ونستنتج اذا نطقت الهمزة أم لا<br />مثلاً:<br />استعمال<br />شراء واستعمال... : لا تنطق الهمزة<br />استعارة<br />طلب واستعارة... لا تنطق الهمزة<br />&nbsp;</p>",
       "transcriptLinkButton": "",
       "transcriptLink": ""
@@ -478,8 +478,8 @@
     "_setCompletionOn": "inview",
     "instruction": "",
     "_src": "https://docs.google.com/presentation/d/e/2PACX-1vQoBN8xrnkweszgVJTiYn6V0nUoa9NLdfpUj1TLsDbPKk80E-SKvpuG9RxxzH0K6k4t0z8SHbjvsSI7/embed?start=false&loop=false&delayms=3000",
-    "_initialWidth": 1280,
-    "_initialHeight": 720,
+    "_initialWidth": 917,
+    "_initialHeight": 555,
     "_dimensionDelegateSelector": ""
   }
 ]
