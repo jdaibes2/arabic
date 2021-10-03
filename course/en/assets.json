@@ -29,11 +29,6 @@
     "description": "question-Q1.mp4",
     "tags": []
   },
-  "bf931ec7591aceeeb65cb8150f53cc77d5f5befb.png": {
-    "title": "eval-cover.png",
-    "description": "eval-cover.png",
-    "tags": []
-  },
   "f211899e119a5fd91fe18834311014880aeba332.mp4": {
     "title": "activity1.mp4",
     "description": "activity1.mp4",
@@ -47,6 +42,11 @@
   "88d59d9c3b091ea3b24cce33a2e5bf4222c30ed2.mp4": {
     "title": "ending.mp4",
     "description": "ending.mp4",
+    "tags": []
+  },
+  "e16bcad7e82c501d4e325feab5d123196d404115.png": {
+    "title": "eval-cover.png",
+    "description": "eval-cover2.png",
     "tags": []
   }
 }

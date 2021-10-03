@@ -427,21 +427,21 @@
     "instruction": "",
     "_items": [
       {
-        "text": "إن افتتاح المركز وإعلان ذلك كان أساسياً",
+        "text": "كان إعلان افتتاح المركز أساسياً",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "إن إفتتاح المركز وإعلان ذلك كان أساسياً",
+        "text": "كان إعلان إفتتاح المركز أساسياً",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "إن افتتاح المركز واعلان ذلك كان أساسياً",
+        "text": "كان إعلان إفتتاح المركز اساسياً",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
