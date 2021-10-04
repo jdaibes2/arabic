@@ -55,18 +55,23 @@
     },
     "instruction": "شاهد الفيديو",
     "_media": {
-      "mp4": "course/en/assets/bd446f85b7bc8d957bd5ece9f8412025c6a93dd3.mp4",
+      "mp4": "course/en/assets/b93d91e292c3db95be17ee864b8842eaf1510f44.mp4",
       "ogv": "",
       "webm": "",
       "mp3": "",
       "source": "",
       "type": "",
       "poster": "course/en/assets/3fc67205bb0dabf3267512705ac975ac0a4536cd.png",
-      "cc": []
+      "cc": [
+        {
+          "srclang": "ar",
+          "src": "course/en/assets/cd1c6cea18420f59f0d2ab1e6101a22bc7fd4e3c.vtt"
+        }
+      ]
     },
     "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
+    "_useClosedCaptions": true,
+    "_startLanguage": "ar",
     "_showVolumeControl": false,
     "_startVolume": "80%",
     "_allowFullScreen": true,
@@ -149,11 +154,16 @@
       "source": "",
       "type": "",
       "poster": "course/en/assets/3fc67205bb0dabf3267512705ac975ac0a4536cd.png",
-      "cc": []
+      "cc": [
+        {
+          "srclang": "ar",
+          "src": "course/en/assets/396b72a611c97126fb4e1949f527f873f2e557d4.vtt"
+        }
+      ]
     },
     "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
+    "_useClosedCaptions": true,
+    "_startLanguage": "ar",
     "_showVolumeControl": false,
     "_startVolume": "80%",
     "_allowFullScreen": true,

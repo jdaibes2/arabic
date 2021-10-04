@@ -19,11 +19,6 @@
     "description": "question3-thumbnail.png",
     "tags": []
   },
-  "bd446f85b7bc8d957bd5ece9f8412025c6a93dd3.mp4": {
-    "title": "lesson-objectives.mp4",
-    "description": "lesson-objectives.mp4",
-    "tags": []
-  },
   "68c46005cda766a105d4b8e003f53eb17afb20fd.mp4": {
     "title": "question-Q1.mp4",
     "description": "question-Q1.mp4",
@@ -47,6 +42,26 @@
   "e16bcad7e82c501d4e325feab5d123196d404115.png": {
     "title": "eval-cover.png",
     "description": "eval-cover2.png",
+    "tags": []
+  },
+  "b93d91e292c3db95be17ee864b8842eaf1510f44.mp4": {
+    "title": "Video-Intro-all.mp4",
+    "description": "Video-Intro-all.mp4",
+    "tags": []
+  },
+  "cd1c6cea18420f59f0d2ab1e6101a22bc7fd4e3c.vtt": {
+    "title": "CC11-2.vtt",
+    "description": "CC11-2.vtt",
+    "tags": []
+  },
+  "2c4559a43acc0b06f85acdb305a01030a0faeb89.vtt": {
+    "title": "CC22.vtt",
+    "description": "CC22.vtt",
+    "tags": []
+  },
+  "396b72a611c97126fb4e1949f527f873f2e557d4.vtt": {
+    "title": "CC22-2.vtt",
+    "description": "CC22-2.vtt",
     "tags": []
   }
 }
