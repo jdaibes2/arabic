@@ -285,28 +285,6 @@
     }
   },
   {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "6156dfdb88cf1941fc917868",
-    "_parentId": "6156df8f88cf1941fc917864",
-    "_type": "component",
-    "_layout": "full",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    }
-  },
-  {
     "_component": "iframe",
     "_classes": "",
     "_isOptional": false,
@@ -689,21 +667,21 @@
     "instruction": "",
     "_items": [
       {
-        "text": "لم استقبل أحداً منذ إسبوعين في استارحتي الخاصة",
+        "text": "لم أستقبل أحداً منذ إسبوعين في استارحتي الخاصة",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "لم استقبل أحداً منذ إسبوعين في إستارحتي الخاصة",
+        "text": "لم أستقبل أحداً منذ إسبوعين في إستارحتي الخاصة",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "لم أستقبل أحداً منذ إسبوعين في استارحتي الخاصة",
+        "text": "لم أستقبل أحداً منذ اسبوعين في استارحتي الخاصة",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -778,5 +756,521 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س1",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">حدد الكلمات التي تبدأ بهمزة وصل:</span></strong></span></p>",
+    "_id": "615ac22518d0683c886bbc8c",
+    "_parentId": "615ac1fe18d0683c886bbc8b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "استثمار",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "العاب",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "اكتشاف",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "اعتماد",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 10,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p>",
+      "_incorrect": {
+        "final": "<p dir=\"rtl\">خاطئة !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "أجب",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "إظهار الإجابة الصحيحة",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "إخفاء الإجابة الصحيحة",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "615ac22918d0683c886bbc8d",
+    "_parentId": "615ac1fe18d0683c886bbc8b",
+    "_type": "component",
+    "_layout": "left",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س2",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">حدد الكلمات التي تبدأ بهمزة قطع:</span></strong></span></p>",
+    "_id": "615ac65f18d0683c886bbc97",
+    "_parentId": "615ac65f18d0683c886bbc96",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "اعمال",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "العاب",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "استملاك",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "اسد",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 10,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "الإجابة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p>",
+      "_incorrect": {
+        "final": "<p dir=\"rtl\">خاطئة !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "أجب",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "إظهار الإجابة الصحيحة",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "إخفاء الإجابة الصحيحة",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "615ac65f18d0683c886bbc98",
+    "_parentId": "615ac65f18d0683c886bbc96",
+    "_type": "component",
+    "_layout": "left",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "س3",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">حدد العبارة الصحيحة</span></strong></span></p>",
+    "_id": "615ac75d18d0683c886bbc9f",
+    "_parentId": "615ac73618d0683c886bbc9e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "أمل في إستثمار جديد",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "أمل في استثمار جديد",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "امل في إستثمار جديد",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "615ac76118d0683c886bbca0",
+    "_parentId": "615ac73618d0683c886bbc9e",
+    "_type": "component",
+    "_layout": "left",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "615ac93718d0683c886bbca3",
+    "_parentId": "615ac91018d0683c886bbca1",
+    "_type": "component",
+    "_layout": "left",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "س4",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">في النص التالي يوجد كلمة واحدة كُتبت فيها الهمزة بشكل خاطئ</span></span></strong></p><p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">أعد كتابة هذه الكلمة بالشكل الصحيح</span></span></strong></p><p dir=\"RTL\">تُعرّف ظاهرة <strong><span style=\"background-color:#00FFFF\">الإحتباس</span></strong><span style=\"background-color:#00FFFF\"> </span>الحراري، أو ظاهرة <strong><span style=\"background-color:#00FFFF\">الإحترار</span></strong><span style=\"background-color:#00FFFF\"> </span>العالمي ، <strong><span style=\"background-color:#00FFFF\">بالإنجيزيّة</span></strong><span style=\"background-color:#00FFFF\"> </span>Global &nbsp;&nbsp;<span>Warming </span>&nbsp;، على <strong><span style=\"background-color:#00FFFF\">أنّها</span></strong>&nbsp;&nbsp;<strong><span style=\"background-color:#00FFFF\">إرتفاع</span></strong><span style=\"background-color:#00FFFF\">&nbsp;</span>&nbsp;في معدّل درجة حرارة الهواء الجوّي الموجود في الطبقة السفلى من سطح <strong><span style=\"background-color:#00FFFF\">الأرض</span></strong></p>",
+    "_id": "615acb7918d0683c886bbca4",
+    "_parentId": "615ac91018d0683c886bbca1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_answers": [
+          "ارتفاع"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "النتيجة النهائية",
+    "body": "",
+    "_id": "615acbd218d0683c886bbca8",
+    "_parentId": "615acbd218d0683c886bbca7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_assessmentId": "",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": false
+    },
+    "_completionBody": "<p dir=\"rtl\"><strong><span style=\"background-color:#FF8C00\">&nbsp;العلامة النهائية:&nbsp;</span></strong></p><p dir=\"rtl\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}} /&nbsp;</span>&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp; &nbsp;</span><span style=\"color:#FFFFFF\">&nbsp;</span></span></strong></p>",
+    "_bands": []
   }
 ]
