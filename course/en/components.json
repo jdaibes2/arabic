@@ -1160,8 +1160,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "س4",
+    "title": "س4",
+    "displayTitle": "",
     "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">في النص التالي يوجد كلمة واحدة كُتبت فيها الهمزة بشكل خاطئ</span></span></strong></p><p dir=\"rtl\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF8C00\">أعد كتابة هذه الكلمة بالشكل الصحيح</span></span></strong></p><p dir=\"RTL\">تُعرّف ظاهرة <strong><span style=\"background-color:#00FFFF\">الإحتباس</span></strong><span style=\"background-color:#00FFFF\"> </span>الحراري، أو ظاهرة <strong><span style=\"background-color:#00FFFF\">الإحترار</span></strong><span style=\"background-color:#00FFFF\"> </span>العالمي ، <strong><span style=\"background-color:#00FFFF\">بالإنجيزيّة</span></strong><span style=\"background-color:#00FFFF\"> </span>Global &nbsp;&nbsp;<span>Warming </span>&nbsp;، على <strong><span style=\"background-color:#00FFFF\">أنّها</span></strong>&nbsp;&nbsp;<strong><span style=\"background-color:#00FFFF\">إرتفاع</span></strong><span style=\"background-color:#00FFFF\">&nbsp;</span>&nbsp;في معدّل درجة حرارة الهواء الجوّي الموجود في الطبقة السفلى من سطح <strong><span style=\"background-color:#00FFFF\">الأرض</span></strong></p>",
     "_id": "615acb7918d0683c886bbca4",
     "_parentId": "615ac91018d0683c886bbca1",
@@ -1266,11 +1266,11 @@
     "_resetType": "inherit",
     "_assessmentId": "",
     "_retry": {
-      "button": "Retry Assessment",
+      "button": "حاول من جديد",
       "feedback": "",
       "_routeToAssessment": false
     },
-    "_completionBody": "<p dir=\"rtl\"><strong><span style=\"background-color:#FF8C00\">&nbsp;العلامة النهائية:&nbsp;</span></strong></p><p dir=\"rtl\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}} /&nbsp;</span>&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp; &nbsp;</span><span style=\"color:#FFFFFF\">&nbsp;</span></span></strong></p>",
+    "_completionBody": "<p dir=\"rtl\"><strong><span style=\"background-color:#FF8C00\">لقد حصلت على&nbsp;</span></strong></p><p dir=\"rtl\"><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}} من</span>&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp; &nbsp;</span><span style=\"color:#FFFFFF\">&nbsp;</span></span></strong></p>",
     "_bands": []
   }
 ]

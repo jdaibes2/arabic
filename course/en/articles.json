@@ -2,7 +2,7 @@
   {
     "title": "New Article Title",
     "displayTitle": "",
-    "body": "",
+    "body": "<p style=\"text-align:center\"><strong><span style=\"color:#FFFFFF\"><span style=\"background-color:#FF0000\">صُمم هذا الدرس بهدف العرض وإعطاء فكرة على التصميم التعليمي والتقنيات المستخدمة في إنتاج المحتوى الالكتروني التفاعلي بعيداً عن التركيز على المضمون&nbsp;</span></span></strong></p><p style=\"text-align:center\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:rgb(255, 0, 0)\">لإتمام هذا العمل يجب إيجاد معلم ومعلمة يتمتعون بالخبرة بالمحتوى التربوي ولديهم المميزات المناسبة&nbsp; للظهور على الكاميرا بطلة محببة وصوت مناسب</span></strong></span></p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -14,6 +14,11 @@
     "_id": "6156d01488cf1941fc917849",
     "_parentId": "6156d01488cf1941fc917848",
     "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
       "_isEnabled": false,
       "_id": "",
@@ -75,6 +80,23 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
     }
   },
   {
@@ -122,8 +144,8 @@
       "_questions": {
         "_resetType": "soft",
         "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_trickle": {
