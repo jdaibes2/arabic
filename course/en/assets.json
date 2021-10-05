@@ -19,11 +19,6 @@
     "description": "question3-thumbnail.png",
     "tags": []
   },
-  "68c46005cda766a105d4b8e003f53eb17afb20fd.mp4": {
-    "title": "question-Q1.mp4",
-    "description": "question-Q1.mp4",
-    "tags": []
-  },
   "f211899e119a5fd91fe18834311014880aeba332.mp4": {
     "title": "activity1.mp4",
     "description": "activity1.mp4",
@@ -62,6 +57,21 @@
   "396b72a611c97126fb4e1949f527f873f2e557d4.vtt": {
     "title": "CC22-2.vtt",
     "description": "CC22-2.vtt",
+    "tags": []
+  },
+  "b0dddf38bcf792acb0df37900a5c167513dfc80e.mp4": {
+    "title": "Question-A1.mp4",
+    "description": "Question-A1.mp4",
+    "tags": []
+  },
+  "1faced95c94571036ce5213c1e66754ac26e586e.vtt": {
+    "title": "CC33-3.vtt",
+    "description": "CC33-3.vtt",
+    "tags": []
+  },
+  "03b0e381d964abb353f29e7ed0a5f9e6e5202c5c.vtt": {
+    "title": "CC44-4.vtt",
+    "description": "CC44-4.vtt",
     "tags": []
   }
 }
